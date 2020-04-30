@@ -1,3 +1,8 @@
+Added a self-contained ipython notebook.
+
+
+
+
 # Transforming Auto-encoders
 An open source *fast and dirty* implementation of the paper by Hinton et.al in PyTorch
 
